@@ -1,0 +1,9 @@
+{
+  "name": "microsoft365-smtp-oauth-example",
+  "version": "1.0.0",
+  "license": "MIT",
+  "private": true,
+  "scripts": {
+    "test": "node --test --test-concurrency=1 send.test.js"
+  }
+}
